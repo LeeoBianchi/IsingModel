@@ -1,3 +1,5 @@
+#AUTHOR: Leo A. Bianchi - 2021
+
 import numpy as np
 import os
 import time as t
