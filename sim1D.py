@@ -1,3 +1,5 @@
+#AUTHOR: Leo A. Bianchi - 2021
+
 import multiprocessing as mp
 import time as t
 import numpy as np
