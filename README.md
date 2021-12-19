@@ -1,6 +1,6 @@
 # IsingModel
 
-**A parallelized (multi-threading) version of Wolff's algorithm for the analyisis of the Ising Model.**
+**A python parallelized (multi-threading) version of Wolff's algorithm for the analyisis of the Ising Model.**
 
 - Wolff.py implements a universal Wolff algorithm for the simulation of a both 1 and 2-dimensional Ising lattice.
 
