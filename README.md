@@ -1,6 +1,6 @@
 # IsingModel
 
-**A python parallelized (multi-threading) version of Wolff's algorithm for Monte Carlo simulations of the Ising Model.**
+**A Python parallelized (multi-threading) version of Wolff's algorithm for Monte Carlo simulations of the Ising Model.**
 
 - Wolff.py implements a universal Wolff algorithm for the simulation of a both 1 and 2-dimensional Ising lattice.
 
